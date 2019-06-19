@@ -1,5 +1,12 @@
 package com.themauritiancoder.design.pattern.factory.domain;
 
+/**
+ * 
+ * The Factory is responsible for initialising the sub classes for us.
+ * 
+ * @author Ravi 
+ *
+ */
 public class EmployeeFactory {
 
 	public Employee getEmployee(EmployeeType employeeType) {
