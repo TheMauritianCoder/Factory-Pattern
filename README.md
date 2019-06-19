@@ -17,7 +17,9 @@ In a company, there are many employees.
 - Senior Developer
 - Junior Developer
 
-Each of these employees have different base salary.
+Each employee has a basic salary.
+However there transport allowance is calculated based on their basic salary.
+For example: Manager gets 10% of their basix salary as transport allowance. Meaning (basicSalary * 0.1)
 
 **In this example**
 We are writing a simple program to output the basis salary of an employee.
