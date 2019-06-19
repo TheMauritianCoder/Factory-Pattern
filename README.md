@@ -5,6 +5,8 @@ To use Factory Method Pattern,
 * Define an Interface or an Abstract class
 * Let the subclasses decide which class to instantiate. i.e. Which class to extend.
 
+The factory is responsible for instantiating the sub class for us.
+
 **Advantage of Factory Design Pattern**
 - Factory Method Pattern allows the sub-classes to choose the type of objects to create.
 - It promotes the loose-coupling by eliminating the need to bind application-specific classes into the code. 
